@@ -1,0 +1,2 @@
+#Use a '#' to have the bot ignore a UPC. Handy if you want to stop checking it, but not delete it - no empty lines
+190198456687
